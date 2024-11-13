@@ -28,7 +28,7 @@ print the characters and its huffmancode
 
 ### Get the input String
 ```
-string = 'V.Sai Sruthi'
+string = 'Sruthi'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
